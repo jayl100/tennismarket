@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.main_link {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin: 80px auto;
+    border-collapse: collapse; /* 테이블 셀 간의 간격을 제거 */
+    width: 80%; /* 테이블의 넓이를 설정 */
+}
+
+th, td {
+    border: 1px solid #000; /* 셀 테두리를 추가 */
+    padding: 8px; /* 셀 내부 여백을 추가 */
+    text-align: center; /* 텍스트를 가운데 정렬 */
+}
+
+th {
+    background-color: #f2f2f2; /* 열 제목의 배경색을 추가 */
+}
